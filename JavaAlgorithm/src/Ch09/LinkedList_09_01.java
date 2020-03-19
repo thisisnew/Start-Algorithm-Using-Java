@@ -3,6 +3,7 @@ import java.util.Comparator;
 // 해당 정답 메서드는 소스 코드의 맨 아래쪽에 있습니다.
 
 public class LinkedList_09_01<E> {
+	//링크드리스트 실습
 	// 노드
 	class Node<E> {
 		private E data; // 데이터

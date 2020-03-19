@@ -168,6 +168,6 @@ public class LinkedListTester_09_01 {
 				list.purge(Data.NAME_ORDER);
 				break;
 			}
-		} while (menu != Menu.TERMINATE);
+		} while (menu != Menu.TERMINATE); 
 	}
 }
